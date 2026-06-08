@@ -62,7 +62,7 @@ Ideal para:
 
 Aqui o foco é: *“deixe o código mais limpo, mantendo o que ele faz”*.
 
-📄 **Prompt:** `prompts/prompt-refactor.md`
+📄 **Prompt:** [prompts/prompt-refactor.md](prompts/prompt-refactor.md)
 
 ---
 
