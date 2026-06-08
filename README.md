@@ -7,7 +7,7 @@ O modo **Ask** é para fazer perguntas e entender coisas, **sem alterar seu cód
 
 O Copiloto lê o contexto do projeto (arquivos abertos, seleção, etc.) e responde como um “mentor técnico”, explicando o que está acontecendo e por quê. Ele **não modifica nada** — só analisa e explica.
 
-📄 **Prompt:** `prompts/prompt-ask.md`
+📄 **Prompt:** [prompts/prompt-ask.md](prompts/prompt-ask.md)
 
 ---
 
