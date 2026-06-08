@@ -1,5 +1,8 @@
 # 🧩 Modos do Copiloto (Ask, Plan, Study, Agent, Refactor, Debugger)
 
+> **📌 Baseado no repositório:** [digitalinnovationone/my-first-copilot](https://github.com/digitalinnovationone/my-first-copilot)  
+> Este documento foi adaptado e estendido a partir do conceito original de modos do Copiloto apresentado pela DIO.
+
 O Copiloto oferece diferentes modos de interação para você escolher como quer trabalhar: desde tirar dúvidas sem mexer no código, até planejar mudanças maiores, aprender novos conceitos, delegar tarefas complexas, refatorar estruturas ou depurar erros. A ideia é simples: você seleciona o modo que melhor combina com seu objetivo no momento e ganha velocidade com mais controle.
 
 ## ❓ Ask
@@ -78,7 +81,7 @@ Ele pode:
 
 Diferente do modo Ask (que só explica), o Debugger **atua ativamente no diagnóstico e na correção**.
 
-📄 **Prompt:** `prompts/prompt-debugger.md`
+📄 **Prompt:** [prompts/prompt-debugger.md](prompts/prompt-debugger.md)
 
 ---
 
@@ -92,3 +95,9 @@ Diferente do modo Ask (que só explica), o Debugger **atua ativamente no diagnó
 | Agent      | executar tarefas grandes sozinho (vários arquivos) |
 | Refactor   | melhorar estrutura/código sem mudar comportamento|
 | Debugger   | encontrar e corrigir bugs                        |
+
+---
+
+## 🔗 Referência
+
+- Repositório original: [digitalinnovationone/my-first-copilot](https://github.com/digitalinnovationone/my-first-copilot)
