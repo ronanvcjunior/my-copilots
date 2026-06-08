@@ -36,7 +36,7 @@ Em vez de simplesmente explicar ou executar, ele:
 
 Funciona quase como um **tutor particular**.
 
-📄 **Prompt:** `prompts/prompt-study.md`
+📄 **Prompt:** [prompts/prompt-study.md](prompts/prompt-study.md)
 
 ---
 
