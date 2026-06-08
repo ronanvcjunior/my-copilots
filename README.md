@@ -45,7 +45,7 @@ O **Agent** é o modo mais **“autônomo”**. Ele pode navegar pelo projeto, c
 
 Você dá um objetivo (ex.: *“implemente login com JWT”*) e ele decide o que precisa ser feito em vários arquivos para chegar lá.
 
-📄 **Prompt:** `prompts/prompt-agent.md`
+📄 **Prompt:** [prompts/prompt-agent.md](prompts/prompt-agent.md)
 
 ---
 
