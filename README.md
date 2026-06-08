@@ -21,7 +21,7 @@ Ele:
 
 Isso é muito útil para mudanças grandes, novas features ou quando você quer validar a abordagem antes de mexer no código.
 
-📄 **Prompt:** `prompts/prompt-plan.md`
+📄 **Prompt:** [prompts/prompt-plan.md](prompts/prompt-plan.md)
 
 ---
 
